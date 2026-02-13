@@ -1,6 +1,9 @@
 
 
-Uploading Kayıt 2026-02-13 144415.mp4… 
+Uploading Kayıt 2026-02-13 144415.mp4…
+
+<img width="1461" height="662" alt="Ekran görüntüsü 2026-02-13 144957" src="https://github.com/user-attachments/assets/e2e3acd4-680a-4e3d-add6-f5bacf299b2d" />
+
 
 🛍️ Fake Store E-Commerce App
 
